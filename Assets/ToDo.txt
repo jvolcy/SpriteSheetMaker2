@@ -1,0 +1,5 @@
+﻿Create a UI
+1) the camera's perspective is set to "Orthographic" (vs "Perspective").  Control the "zoom" by adjusting the "Size" in the inspector.  This should be a UI control.  So should X and Y positioning of the viewport.
+2) need instructions for removing the root motion for (rotation and translation) when needed.... this requires editing the animation.
+3) stretch goal: camera follower to eliminate editing animation clips to remove root motion
+4) if no track is selected, the playable stops playing.
